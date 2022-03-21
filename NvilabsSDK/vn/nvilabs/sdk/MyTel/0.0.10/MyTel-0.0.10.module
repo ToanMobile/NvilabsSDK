@@ -52,6 +52,13 @@
           }
         },
         {
+          "group": "MyTelAndroid",
+          "module": "livekit-android-sdk",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
           "group": "com.google.firebase",
           "module": "firebase-analytics-ktx",
           "version": {
@@ -172,6 +179,13 @@
           }
         },
         {
+          "group": "MyTelAndroid",
+          "module": "livekit-android-sdk",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
           "group": "com.google.firebase",
           "module": "firebase-analytics-ktx",
           "version": {
@@ -232,27 +246,6 @@
           "module": "databinding-ktx",
           "version": {
             "requires": "7.1.2"
-          }
-        },
-        {
-          "group": "com.xwray",
-          "module": "groupie",
-          "version": {
-            "requires": "2.9.0"
-          }
-        },
-        {
-          "group": "com.xwray",
-          "module": "groupie-viewbinding",
-          "version": {
-            "requires": "2.9.0"
-          }
-        },
-        {
-          "group": "MyTelAndroid",
-          "module": "livekit-android-sdk",
-          "version": {
-            "requires": "unspecified"
           }
         },
         {
