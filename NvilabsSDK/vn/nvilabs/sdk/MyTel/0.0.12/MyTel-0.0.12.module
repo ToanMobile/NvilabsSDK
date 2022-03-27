@@ -46,9 +46,9 @@
         },
         {
           "group": "vn.netacom",
-          "module": "NetAloBaseChat-Dev",
+          "module": "NetAloBaseChat",
           "version": {
-            "requires": "2.0.18"
+            "requires": "2.0.0"
           }
         },
         {
@@ -126,11 +126,11 @@
         {
           "name": "MyTel-0.0.12.aar",
           "url": "MyTel-0.0.12.aar",
-          "size": 7281181,
-          "sha512": "8998a0245645e2f103bcaac0705935b7f5aec47b63c05c9b644119998e5bfc689cd9af6e0455197aab47b59d0d18c19d480c48a6a88c01084edc1734fc69e1c5",
-          "sha256": "d466e5673c45afd1922dbb344b96a0873950d093b3a31deabde8c323d0902aba",
-          "sha1": "76cc8af40e282579f9ff5a89c8453abd20a1cb57",
-          "md5": "e30962999fedf8e98917854ea1deb24d"
+          "size": 7282196,
+          "sha512": "fc831189800cd916dfc635b13489b5ed593d4a050edc1f35a315c79a15d617b3019c3f90fd612f3522899024d2d50ed2d70936902ac80fb50d0e0081ffd2666a",
+          "sha256": "17e89b449690be45f6f44fc6ce4a7c113a7fce5f605ae5040cb9c26fd93d03e8",
+          "sha1": "bd1a7bb221f2a2fdcd8943184f0f4cca731b3d58",
+          "md5": "dc8392250228927644100232bf2873ba"
         }
       ]
     },
@@ -173,9 +173,9 @@
         },
         {
           "group": "vn.netacom",
-          "module": "NetAloBaseChat-Dev",
+          "module": "NetAloBaseChat",
           "version": {
-            "requires": "2.0.18"
+            "requires": "2.0.0"
           }
         },
         {
@@ -582,11 +582,11 @@
         {
           "name": "MyTel-0.0.12.aar",
           "url": "MyTel-0.0.12.aar",
-          "size": 7281181,
-          "sha512": "8998a0245645e2f103bcaac0705935b7f5aec47b63c05c9b644119998e5bfc689cd9af6e0455197aab47b59d0d18c19d480c48a6a88c01084edc1734fc69e1c5",
-          "sha256": "d466e5673c45afd1922dbb344b96a0873950d093b3a31deabde8c323d0902aba",
-          "sha1": "76cc8af40e282579f9ff5a89c8453abd20a1cb57",
-          "md5": "e30962999fedf8e98917854ea1deb24d"
+          "size": 7282196,
+          "sha512": "fc831189800cd916dfc635b13489b5ed593d4a050edc1f35a315c79a15d617b3019c3f90fd612f3522899024d2d50ed2d70936902ac80fb50d0e0081ffd2666a",
+          "sha256": "17e89b449690be45f6f44fc6ce4a7c113a7fce5f605ae5040cb9c26fd93d03e8",
+          "sha1": "bd1a7bb221f2a2fdcd8943184f0f4cca731b3d58",
+          "md5": "dc8392250228927644100232bf2873ba"
         }
       ]
     }

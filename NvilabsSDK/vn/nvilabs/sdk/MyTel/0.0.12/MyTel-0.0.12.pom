@@ -56,8 +56,8 @@
     </dependency>
     <dependency>
       <groupId>vn.netacom</groupId>
-      <artifactId>NetAloBaseChat-Dev</artifactId>
-      <version>2.0.18</version>
+      <artifactId>NetAloBaseChat</artifactId>
+      <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
