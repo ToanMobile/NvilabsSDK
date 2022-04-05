@@ -262,27 +262,6 @@
           }
         },
         {
-          "group": "androidx.biometric",
-          "module": "biometric",
-          "version": {
-            "requires": "1.2.0-alpha03"
-          }
-        },
-        {
-          "group": "androidx.security",
-          "module": "security-crypto-ktx",
-          "version": {
-            "requires": "1.1.0-alpha03"
-          }
-        },
-        {
-          "group": "com.google.crypto.tink",
-          "module": "tink-android",
-          "version": {
-            "requires": "1.6.0"
-          }
-        },
-        {
           "group": "org.whispersystems",
           "module": "curve25519-android",
           "version": {
@@ -392,11 +371,11 @@
         {
           "name": "NetAloBaseChat-2.0.0.aar",
           "url": "NetAloBaseChat-2.0.0.aar",
-          "size": 2800183,
-          "sha512": "3bdb666e093b494e07efc34d29ca1917372c0cae5cb84f2212b0706ea0e0969ef5f4450efab3f16a9b2ca6bc427abaf58578ced116a0c707bbada04e323f608c",
-          "sha256": "1a07f6571d5c4c078b1616ab5b7b484f25313afca87e74776f80e4268f402a40",
-          "sha1": "0804b426321ff5cd50fa47ab20b3e701514ecd0f",
-          "md5": "a8803d569f34f0cd871587ff4a703a45"
+          "size": 2774565,
+          "sha512": "ee1e27427d7d413e262733ee9d116cb5a7ce9cdb305ff076958f39e3ec8282701b9a7b7cf312c1139dfea213b52efdadc311e64cd971135b73fc79a8bdbe43fd",
+          "sha256": "bcbd0694cd46f1f8c649902ef0efb0a456919bb857b34153260c5111a0bff8df",
+          "sha1": "3227cc288b987eb22c2b3d2c143e8f534ffc2a7f",
+          "md5": "3f1cd0c47d0bb65bcdf82752706ba76b"
         }
       ]
     },
@@ -655,27 +634,6 @@
           }
         },
         {
-          "group": "androidx.biometric",
-          "module": "biometric",
-          "version": {
-            "requires": "1.2.0-alpha03"
-          }
-        },
-        {
-          "group": "androidx.security",
-          "module": "security-crypto-ktx",
-          "version": {
-            "requires": "1.1.0-alpha03"
-          }
-        },
-        {
-          "group": "com.google.crypto.tink",
-          "module": "tink-android",
-          "version": {
-            "requires": "1.6.0"
-          }
-        },
-        {
           "group": "org.whispersystems",
           "module": "curve25519-android",
           "version": {
@@ -792,11 +750,11 @@
         {
           "name": "NetAloBaseChat-2.0.0.aar",
           "url": "NetAloBaseChat-2.0.0.aar",
-          "size": 2800183,
-          "sha512": "3bdb666e093b494e07efc34d29ca1917372c0cae5cb84f2212b0706ea0e0969ef5f4450efab3f16a9b2ca6bc427abaf58578ced116a0c707bbada04e323f608c",
-          "sha256": "1a07f6571d5c4c078b1616ab5b7b484f25313afca87e74776f80e4268f402a40",
-          "sha1": "0804b426321ff5cd50fa47ab20b3e701514ecd0f",
-          "md5": "a8803d569f34f0cd871587ff4a703a45"
+          "size": 2774565,
+          "sha512": "ee1e27427d7d413e262733ee9d116cb5a7ce9cdb305ff076958f39e3ec8282701b9a7b7cf312c1139dfea213b52efdadc311e64cd971135b73fc79a8bdbe43fd",
+          "sha256": "bcbd0694cd46f1f8c649902ef0efb0a456919bb857b34153260c5111a0bff8df",
+          "sha1": "3227cc288b987eb22c2b3d2c143e8f534ffc2a7f",
+          "md5": "3f1cd0c47d0bb65bcdf82752706ba76b"
         }
       ]
     }
