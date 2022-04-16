@@ -126,11 +126,11 @@
         {
           "name": "MyTel-1.0.0.aar",
           "url": "MyTel-1.0.0.aar",
-          "size": 7723494,
-          "sha512": "f8c29353303b2dffe203f60964529b0e848b9cc4c5fe69c698a1b201626c9998d3bb488d6d4a5e0663826406f6f9da62e817ee5561045587ea943638d3482db0",
-          "sha256": "c269f828b52e426b69a1a731665a5ac74c77566607f63a2ff621463f3318f359",
-          "sha1": "d977f0168499773e9513f445349fd360ce5bc8b5",
-          "md5": "8828692800e655a2ef72cda4a314d309"
+          "size": 7721721,
+          "sha512": "60e129488e1950584cd87c86bbbd69a388bceeca814bbf059dcc6ba73ef96d5fa582f798281a43ae51591705fcbd73eba0e81d057cd5d04e114d069a8ca3efa4",
+          "sha256": "1f632698524317d9f585e38cf49914c50535f1f9afaff5d355a0849722e55652",
+          "sha1": "e511461013336cd7cc3b079bcb1121b332ecc69a",
+          "md5": "673c2b1c26a6bda48e9d55e1a754c054"
         }
       ]
     },
@@ -378,14 +378,14 @@
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-core",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
           "group": "org.jetbrains.kotlinx",
           "module": "kotlinx-coroutines-android",
           "version": {
-            "requires": "1.6.0"
+            "requires": "1.6.1"
           }
         },
         {
@@ -589,11 +589,11 @@
         {
           "name": "MyTel-1.0.0.aar",
           "url": "MyTel-1.0.0.aar",
-          "size": 7723494,
-          "sha512": "f8c29353303b2dffe203f60964529b0e848b9cc4c5fe69c698a1b201626c9998d3bb488d6d4a5e0663826406f6f9da62e817ee5561045587ea943638d3482db0",
-          "sha256": "c269f828b52e426b69a1a731665a5ac74c77566607f63a2ff621463f3318f359",
-          "sha1": "d977f0168499773e9513f445349fd360ce5bc8b5",
-          "md5": "8828692800e655a2ef72cda4a314d309"
+          "size": 7721721,
+          "sha512": "60e129488e1950584cd87c86bbbd69a388bceeca814bbf059dcc6ba73ef96d5fa582f798281a43ae51591705fcbd73eba0e81d057cd5d04e114d069a8ca3efa4",
+          "sha256": "1f632698524317d9f585e38cf49914c50535f1f9afaff5d355a0849722e55652",
+          "sha1": "e511461013336cd7cc3b079bcb1121b332ecc69a",
+          "md5": "673c2b1c26a6bda48e9d55e1a754c054"
         }
       ]
     }
