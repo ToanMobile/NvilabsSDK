@@ -126,11 +126,11 @@
         {
           "name": "MyTel-1.0.16.aar",
           "url": "MyTel-1.0.16.aar",
-          "size": 8043041,
-          "sha512": "3408dfc3713d6772ed0e87cf499ba0ce39dfa719de8a94103c71541601786bca9255f0c17b62f95287d0e03a0b46de4d35e553a6880c04b3a94fe3b5f5f1af15",
-          "sha256": "c5fac975cfeb534e09b790d6cc8ffd9a3a2b0fe09d7b69ad606ca3cd190375c2",
-          "sha1": "c10e9c882750e6b0e6f858c5809e94f9546e95ca",
-          "md5": "b384c247bbe4ac76b8f64e460ef7fc2a"
+          "size": 8057292,
+          "sha512": "68d786b8ee01c0d492cbc947cb298b076a38ba1557bd576aeb540f1f93a41dbb6020a233b5e31a2a43a53109c4d350b7f26d85222025c036ab970d1b6c8c6564",
+          "sha256": "14e8562087cd26c6e3e614b4a02878efceb854224f87498f1659654996a68b13",
+          "sha1": "738eb1a22355cb9e3a07c1f593134b98e709bbc6",
+          "md5": "7acec9fdb051b43c2360f916b94950f1"
         }
       ]
     },
@@ -603,11 +603,11 @@
         {
           "name": "MyTel-1.0.16.aar",
           "url": "MyTel-1.0.16.aar",
-          "size": 8043041,
-          "sha512": "3408dfc3713d6772ed0e87cf499ba0ce39dfa719de8a94103c71541601786bca9255f0c17b62f95287d0e03a0b46de4d35e553a6880c04b3a94fe3b5f5f1af15",
-          "sha256": "c5fac975cfeb534e09b790d6cc8ffd9a3a2b0fe09d7b69ad606ca3cd190375c2",
-          "sha1": "c10e9c882750e6b0e6f858c5809e94f9546e95ca",
-          "md5": "b384c247bbe4ac76b8f64e460ef7fc2a"
+          "size": 8057292,
+          "sha512": "68d786b8ee01c0d492cbc947cb298b076a38ba1557bd576aeb540f1f93a41dbb6020a233b5e31a2a43a53109c4d350b7f26d85222025c036ab970d1b6c8c6564",
+          "sha256": "14e8562087cd26c6e3e614b4a02878efceb854224f87498f1659654996a68b13",
+          "sha1": "738eb1a22355cb9e3a07c1f593134b98e709bbc6",
+          "md5": "7acec9fdb051b43c2360f916b94950f1"
         }
       ]
     }
